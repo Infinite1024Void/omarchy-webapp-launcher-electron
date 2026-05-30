@@ -1,0 +1,20 @@
+{
+  "name": "omarchy-webapp-launcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "author": "",
+  "scripts": {
+    "build": "electron-builder --linux"
+  },
+  "devDependencies": {
+    "electron": "^36.0.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.omarchy.omarchy-webapp-launcher",
+    "productName": "omarchy-webapp-launcher",
+    "directories": {"output": "dist"},
+    "linux": {"target": ["AppImage"], "category": "Utility"}
+  }
+}
