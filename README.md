@@ -12,7 +12,7 @@ Requirements: FUSE
 
 Download the omarchy-webapp-launcher-x86_64 binary and run this command in the place where you downloaded it:
 ```bash
-sudo mv ./omarchy-webapp-launcher-x86_64 $(which omarchy-launch-webapp)
+mv ./omarchy-webapp-launcher-x86_64 $(which omarchy-launch-webapp)
 ```
 And you're all done!
 
