@@ -51,7 +51,3 @@ $ omarchy-launch-webapp
 [ '/tmp/.mount_omarch4hIEjb/omarchy-webapp-launcher' ]
 Loading: https://omarchy.org
 ```
-```
-```
-```
-```
